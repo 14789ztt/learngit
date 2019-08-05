@@ -1,0 +1,9 @@
+.\build\system_tm4c123.o: TiDriver\src\system_TM4C123.c
+.\build\system_tm4c123.o: D:\ProgramFiles\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+.\build\system_tm4c123.o: .\TiDriver\inc\TM4C123G.h
+.\build\system_tm4c123.o: .\TiDriver\inc\core_cm4.h
+.\build\system_tm4c123.o: .\TiDriver\inc\cmsis_version.h
+.\build\system_tm4c123.o: .\TiDriver\inc\cmsis_compiler.h
+.\build\system_tm4c123.o: .\TiDriver\inc\cmsis_armcc.h
+.\build\system_tm4c123.o: .\TiDriver\inc\mpu_armv7.h
+.\build\system_tm4c123.o: .\TiDriver\inc\system_TM4C123.h
